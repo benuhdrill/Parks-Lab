@@ -17,3 +17,4 @@ The following **required** functionality is completed:
   
 
 ## Video Walkthrough
+![Simulator Screen Recording1 - iPhone 15 Pro - 2024-10-22 at 13 04 24](https://github.com/user-attachments/assets/33ef827a-7e1d-4d68-b866-48465724c994)
